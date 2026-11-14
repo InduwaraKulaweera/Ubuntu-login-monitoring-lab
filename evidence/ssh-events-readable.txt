@@ -1,0 +1,10 @@
+2026-11-14T18:23:56+00:00 Ubuntu sshd[5406]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=127.0.0.1  user=labuser
+2026-11-14T18:23:57+00:00 Ubuntu sshd[5406]: Failed password for labuser from 127.0.0.1 port 52168 ssh2
+2026-11-14T18:24:05+00:00 Ubuntu sshd[5406]: Failed password for labuser from 127.0.0.1 port 52168 ssh2
+2026-11-14T18:24:06+00:00 Ubuntu sshd[5406]: Failed password for labuser from 127.0.0.1 port 52168 ssh2
+2026-11-14T18:24:06+00:00 Ubuntu sshd[5406]: Connection closed by authenticating user labuser 127.0.0.1 port 52168 [preauth]
+2026-11-14T18:27:53+00:00 Ubuntu sshd[5421]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=127.0.0.1  user=labuser
+2026-11-14T18:27:55+00:00 Ubuntu sshd[5421]: Failed password for labuser from 127.0.0.1 port 59942 ssh2
+2026-11-14T18:27:59+00:00 Ubuntu sshd[5421]: Failed password for labuser from 127.0.0.1 port 59942 ssh2
+2026-11-14T18:27:59+00:00 Ubuntu sshd[5421]: Failed password for labuser from 127.0.0.1 port 59942 ssh2
+2026-11-14T18:27:59+00:00 Ubuntu sshd[5421]: Connection closed by authenticating user labuser 127.0.0.1 port 59942 [preauth]
