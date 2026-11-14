@@ -1,0 +1,12 @@
+[
+  {
+    "timestamp_utc": "2026-11-14T18:27:59.634542+00:00",
+    "source_ip": "127.0.0.1",
+    "failure_count": 5,
+    "window_seconds": 300,
+    "usernames": [
+      "labuser"
+    ],
+    "rule": "ssh_failed_password_threshold"
+  }
+]
